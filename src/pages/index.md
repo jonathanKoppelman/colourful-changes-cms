@@ -3,7 +3,7 @@ templateKey: index-page
 title: Colourful changes
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: helping people out
 mainpitch:
   title: Why Kaldi
   description: >
