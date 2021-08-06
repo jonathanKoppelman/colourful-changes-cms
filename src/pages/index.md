@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Colourful changes
-image: /img/home-jumbotron.jpg
+title: Colourful Changes
+image: /img/blank.jpg
 heading: try it out
-subheading: helping people out
+subheading: Hulp bij eetstoornissen & Dietetiek
 mainpitch:
-  title: Colourful changes
+  title: Colourful Changes
   description: |
     Description of colourful
 description: some text
