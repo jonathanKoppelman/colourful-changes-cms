@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
 title: Colourful Changes
-image: /img/blank.jpg
-heading: try it out
+image: /img/blog-index.jpg
+heading: Start vandaag!
 subheading: Hulp bij eetstoornissen & Dietetiek
 mainpitch:
   title: Colourful Changes
-  description: >
+  description: >-
     Je kan bij Colourful Changes terecht voor hulp en coaching
     bij:•	 Eetprobematiek
 
@@ -17,7 +17,22 @@ mainpitch:
     •	Colourful Changes Cooking Club
 
     •	Video Interactie Begeleiding (VIB)
-description: some text
+description: "Ken je dat, het constant plannen van je dag? Tot aan de minuut
+  alles gepland: school, werk, sociale dingetjes, iets voor andere mensen doen?
+  Vanaf het moment dat je opstaat die planning achterna rennen, want het moet en
+  zou vandaag, en het moet en zal beter dan gisteren. Het ‘eisenlijstje’ wordt
+  steeds langer, het is nooit goed genoeg voor je.  Tijd om op de rem te
+  trappen! Want wacht eens even je hebt ook nog jezelf, je meest kostbare bezit
+  welke je nodig hebt om: te zijn en te leven.  Je bevrijdt voelen van deze
+  dwang naar perfectie, hoe fijn zou dat zijn?  Jouw lijf en jouw ziel zijn de
+  motor van alles wat jij dagelijks doet, hier zorg voor dragen is essentieel.
+  Het leven is te kostbaar om in een waas of als nummertje op een to do list aan
+  je voorbij te laten gaan. Voelen, doen, liefhebben en beleven hoort er
+  allemaal bij, en wat is het leven vol emotie mooi.  De eetstoornis, die dwang
+  naar perfectie moet nu afgelopen zijn. Graag help ik jou om die oerkracht die
+  jij in je hebt, om te zetten naar iets positiefs: afkomen van die
+  eetstoornis.  Het geluk ligt aan je voeten, je hoeft het alleen nog op te
+  rapen."
 intro:
   blurbs:
     - image: /img/whatsapp-image-2019-11-05-at-10.38.33-7-.jpeg
@@ -25,16 +40,12 @@ intro:
         ondersteuning op het gebied van voeding. Voeding is essentieel voor een
         veilige en gezonde basis voor iedereen, welke het startpunt vormt voor
         zowel emotionele als lichamelijke groei. Vanuit deze behoefte en mijn
-        eigen interesse voor voeding, ben ik inmiddels geregistreerd dietist.
+        eigen interesse voor voeding, ben ik inmiddels geregistreerd diëtist.
         Vanuit eigen ervaringsdeskundigheid op het gebied van eetstoornissen,
         begeleid ik met behulp van de ISA Power methode mensen met een
         eetstoornis.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: hh
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -53,7 +64,7 @@ intro:
   description: |
     tell what you offer
 main:
-  heading: Great coffee with no compromises
+  heading: v
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
