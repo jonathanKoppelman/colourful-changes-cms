@@ -6,18 +6,29 @@ heading: try it out
 subheading: Hulp bij eetstoornissen & Dietetiek
 mainpitch:
   title: Colourful Changes
-  description: |
-    Description of colourful
+  description: >
+    Je kan bij Colourful Changes terecht voor hulp en coaching
+    bij:•	 Eetprobematiek
+
+    •	 Eetstoornissen
+
+    •	 Dieet- en voedingsadvies
+
+    •	Colourful Changes Cooking Club
+
+    •	Video Interactie Begeleiding (VIB)
 description: some text
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/whatsapp-image-2019-11-05-at-10.38.33-7-.jpeg
+      text: Als ortho-pedagoog merkte ik dat er bij ouders en kind behoefte is aan
+        ondersteuning op het gebied van voeding. Voeding is essentieel voor een
+        veilige en gezonde basis voor iedereen, welke het startpunt vormt voor
+        zowel emotionele als lichamelijke groei. Vanuit deze behoefte en mijn
+        eigen interesse voor voeding, ben ik inmiddels geregistreerd dietist.
+        Vanuit eigen ervaringsdeskundigheid op het gebied van eetstoornissen,
+        begeleid ik met behulp van de ISA Power methode mensen met een
+        eetstoornis.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
